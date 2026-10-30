@@ -1,0 +1,6 @@
+Reserva Ana: 1
+Reserva Luis: -3
+Ocupados: [F5, F6, F7]
+Precio Ana (socio): 20.4
+Cancelar 1: 0
+Cancelar 99: -1

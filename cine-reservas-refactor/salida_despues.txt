@@ -1,0 +1,6 @@
+﻿Reserva Ana: 1
+Reserva Luis: ERROR - Asiento no disponible: F6
+Ocupados: [F5, F6]
+Precio Ana (socio): 20.4
+Cancelar 1: OK
+Cancelar 99: ERROR - No existe la reserva con id 99
